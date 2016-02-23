@@ -25,4 +25,11 @@ What is the reslut of merging two branches together? Why do we represent it in t
 
 Git makes a logical merging using the history of commits to avoiding repeating certain things and reintroducing bugs
 that persones removed. It is represented in that way because all the commits are now under the master branch, with master
-as head. 
+as head.
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+The pros are that, you don't need to go through every single commit on both branches to add them and look what was
+removed and what was added, also it says when there is some trouble and it doesnt guess add something.
+The cons is that you might not know whats going on when you merge, what's added and not. 
