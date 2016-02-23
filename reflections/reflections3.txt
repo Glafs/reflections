@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+When working on a project with a friend or coworker, when trying to develop a program or something and your stuck and need help
+other people on git hub might perhaps help you out.
